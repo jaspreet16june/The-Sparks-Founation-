@@ -1,4 +1,4 @@
-# The-Sparks-Founation-
+# The-Sparks-Founation (task 1)
 **This repository contains the tasks given in DATA SCIENCE AND ANALYTIC INTERNSHIP by SPARKS FOUNDATION**
 
 TASK 1 : Supervised Learning 
